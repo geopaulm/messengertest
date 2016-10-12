@@ -1,1 +1,1 @@
-Word Game with FB Messenger
+Word Game with FB Messenger.
